@@ -1,0 +1,3 @@
+name,value,note
+RSXCANARY-cell,"<img src=x onerror=console.log(0)>","<a href=javascript:1>x</a>"
+"=HYPERLINK(1)","<b>bold</b>plain","<svg onload=1>"
